@@ -2,7 +2,7 @@
  * EntryAbility - Application lifecycle management
  *
  * This is the main ability that manages the application's lifecycle.
- * It demonstrates the Stage Model architecture used in HarmonyOS Next.
+ * It demonstrates the Stage Model architecture used in HarmonyOS.
  */
 
 import { AbilityConstant, UIAbility, Want } from '@kit.AbilityKit';
